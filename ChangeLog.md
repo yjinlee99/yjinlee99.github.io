@@ -8,4 +8,5 @@
 - [x] search-console
 
 ### 0.4.0
--[ ][SEO NAVER](https://github.com/yjinlee99/yjinlee99.github.io/issues/4)
+- [ ][SEO NAVER](https://github.com/yjinlee99/yjinlee99.github.io/issues/4)
+- [ ] robots.txt 파일 생성
