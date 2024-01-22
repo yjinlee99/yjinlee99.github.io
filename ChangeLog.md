@@ -11,3 +11,4 @@
 - [ ][SEO NAVER](https://github.com/yjinlee99/yjinlee99.github.io/issues/4)
 - [ ] robots.txt 파일 생성
 - [ ] 사이트 설명 추가
+- [ ] 오픈 그래프 추가
