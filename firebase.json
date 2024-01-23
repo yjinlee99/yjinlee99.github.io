@@ -1,0 +1,11 @@
+{
+  "hosting": {
+   "site": "yjin-1f35c",
+	  "public": "/",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
